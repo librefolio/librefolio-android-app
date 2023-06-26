@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">LibreFolio</string>
+
+    <string name="home_content_description">Home</string>
+    <string name="info_content_description">Info</string>
+
+    <string name="name_row_name">Name</string>
+    <string name="price_row_name">Price</string>
+    <string name="amount_row_name">Amount</string>
+
+    <string name="about_title">About LibreFolio</string>
+    <string name="about_author">Justin Bass</string>
+    <string name="about_copyright">Copyright © 2023</string>
+
+    <!-- About version is currently hardcoded -->
+    <string name="about_version">Version 1.0</string>
+
+    <string name="days_ago">day(s) ago</string>
+    <string name="hours_ago">hour(s) ago</string>
+    <string name="minutes_ago">minute(s) ago</string>
+    <string name="seconds_ago">second(s) ago</string>
+    <string name="just_now">just now</string>
+
+    <string name="units">Units</string>
+</resources>

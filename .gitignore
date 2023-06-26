@@ -1,0 +1,12 @@
+# Vim
+*.swp
+
+# Local configuration
+local.properties
+
+# Android Studio
+.gradle
+.idea
+
+# Build
+build/
